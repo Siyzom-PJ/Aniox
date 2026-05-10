@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /d F:\\\\Axiom-Nexus)",
+      "Bash(cargo check *)"
+    ]
+  }
+}
